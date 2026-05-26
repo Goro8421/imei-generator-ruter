@@ -56,6 +56,7 @@ These devices were confirmed via various images, found on the Internet and valid
 | HH40V_XXXX | TCL/Alcatel HH40V | 35848108 | 8 | |
 | MTS8723FT_XXXX | Senseit MTS 8723FT | 35861510 | 8 | |
 | Moxee Hotspotdd_[2.4G\|_5G] | KonnectONE LLC Moxee Mobile Hotspot K779HSDL | 35890230 | 8 | Last 2 digits in the SSID |
+| Airtel-MW40-XXXX | TCL/Alcatel MW40CJ | 35934707 | 8 | |
 | Beeline_XXXX | Beeline L02H | 35978707 | 8 | |
 | AIS 4G Pocket Wifi_dddddd | Ruio Telecommunication Technologies Co Limited Ruio S6506 | 35986513 <br/> 86207503 | 8 | Last 6 digits of the IMEI are in the SSID, so we can brute only the second digit |
 | 4G-Gateway-XXXX | Huawei B593 | 86009102 <br/> 86803100 | 8 | |
